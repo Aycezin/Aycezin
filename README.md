@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aycezin/Aycezin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Aycezin/Aycezin/output/github-contribution-grid-snake.svg" />
 
 ###
