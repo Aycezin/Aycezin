@@ -30,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Aycezin/Aycezin/output/snake.svg" alt="Snake animation" />
 
 ###
